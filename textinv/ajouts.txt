@@ -3,3 +3,6 @@ wget https://repo.continuum.io/archive/Anaconda2-4.1.1-Linux-x86_64.sh
 bash Anaconda2-4.1.1-Linux-x86_64.sh
 source .bashrc
 conda update conda
+
+quand resolve package not found dans la création de l'environnement, passer les packages dans le pip
+(fait dans la version corrigée de environment.yaml)
