@@ -6,3 +6,5 @@ conda update conda
 
 quand resolve package not found dans la création de l'environnement, passer les packages dans le pip
 (fait dans la version corrigée de environment.yaml)
+
+pip install taming-transformers-rom1504
